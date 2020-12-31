@@ -1,0 +1,3 @@
+configparser
+confluent_kafka
+mysql-connector-python
